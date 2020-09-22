@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
-* Студент: [Дмитрий Феофанов](https://up.htmlacademy.ru/javascript/21/user/1463949).
-* Наставник: `Неизвестно`.
+- Студент: [Дмитрий Феофанов](https://up.htmlacademy.ru/javascript/21/user/1463949).
+- Наставник: [АлёнаСиприкова](https://up.htmlacademy.ru/javascript/21/user/549115).
 
 ---
 
